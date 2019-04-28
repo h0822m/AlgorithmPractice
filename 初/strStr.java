@@ -26,7 +26,7 @@ public class strStr {
 			int i = haystack.indexOf(needle);
 			return i;
 		} else {
-			return -1;
+			return 0;
 		}
 	}
 	
